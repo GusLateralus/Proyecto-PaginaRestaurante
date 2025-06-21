@@ -9,7 +9,7 @@ FoodHut es un restaurante moderno que ofrece platillos gourmet, mariscos, cocina
 - **Inicio:** Presentación e imagen destacada.
 - **Menú:** Lista de platillos con descripciones y precios.
 - **Nuestra historia:** Narrativa sobre la fundación del restaurante.
-- **Contacto:** Mapa con la dirección hipotética del restaurante, así como un teléfono de contacto (ficticio) y un correo electrónico.
+- **Contacto:** Mapa con la dirección hipotética del restaurante, así como un teléfono de contacto (ficticio) y un correo electrónico. NOTA: La API Key fue omitida, se deberá solicitar o crear una propia.
 
 Cabe resaltar que este proyecto sólo es con fines promocionales, la página web no tiene un backend predefinido. Sin embargo, se pretende incluir
 a futuro.
