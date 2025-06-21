@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno o configuraciones locales
+.env
+*.local
+
+# VS Code
+.vscode/
+
+# Node (en caso de que después uses JS con npm)
+node_modules/
+
+# Archivos de log
+*.log
